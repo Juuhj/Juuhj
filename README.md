@@ -1,15 +1,15 @@
-👋 Hi there! I'm Juuhj
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&size=40&pause=1000&color=B561F7&center=true&vCenter=true&width=435&lines=Hello+Word!!!)](https://git.io/typing-svg)
 
-👽 About me:
-I’m passionate about music, books, and art — basically anything creative!
 
-🦋 Pronouns: she/her
-
-🎧 Fun fact:
-I absolutely love music and can actually play a few instruments because of it 🎹🎸🥁
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=30&pause=1000&color=CB73F7&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Juh)](https://git.io/typing-svg)
 
 👾 Currently learning:
 I’m diving into the world of cybersecurity, and I’m excited to keep learning, building, and sharing my progress soon!
 
-💫 Thanks for stopping by! Feel free to connect or check out my projects!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zilla+Slab+Highlight&size=30&pause=1000&color=CB73F7&repeat=false&width=435&lines=Linguagens+e+ferramentas)](https://git.io/typing-svg)
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,arduino,vscode,py,html,js,nodejs,css,express,postgres,postman,react,tailwind)](https://skillicons.dev)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=30&pause=1000&color=CB73F7&width=435&lines=%F0%9F%92%AB+Thanks+for+stopping+by!+Feel+free+to+connect+or+check+out+my+projects!)](https://git.io/typing-svg)
 
