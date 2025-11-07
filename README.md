@@ -9,9 +9,7 @@ I’m diving into the world of **cybersecurity**, and I’m excited to keep lear
 [![My Skills](https://skillicons.dev/icons?i=cpp,arduino,vscode,py,html,js,nodejs,css,express,postgres,postman,react,tailwind)](https://skillicons.dev)
 
 
-### 🐍 Contribution Animation  
-![GitHub Snake Light](https://raw.githubusercontent.com/juuhj/juuhj/output/github-contribution-grid-snake.svg)  
-![GitHub Snake Dark](https://raw.githubusercontent.com/juuhj/juuhj/output/github-contribution-grid-snake-dark.svg)
+- name: generate-snake-game-from-github-contribution-grid uses: Platane/snk@v3.3.0
 
 
 **💫Thanks for stopping by!**
