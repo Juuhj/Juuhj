@@ -10,8 +10,8 @@ I’m diving into the world of **cybersecurity**, and I’m excited to keep lear
 
 
 ### 🐍 Contribution Animation  
-![GitHub Snake Light](https://raw.githubusercontent.com/juuhj/<projeto_gpf>/output/github-contribution-grid-snake.svg)  
-![GitHub Snake Dark](https://raw.githubusercontent.com/juuhj/<projeto_gfp>/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/juuhj/juuhj/output/github-contribution-grid-snake.svg)  
+![GitHub Snake Dark](https://raw.githubusercontent.com/juuhj/juuhj/output/github-contribution-grid-snake-dark.svg)
 
 
 **💫Thanks for stopping by!**
